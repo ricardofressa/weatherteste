@@ -25,8 +25,8 @@ O Aplicativo foi desenvolvido usando o Android Studio 2.3.2 e usa o SDK 25.0.3
 
 ## Imagem do Aplicativo
 
-![Image star-screen](https://github.com/ricardofressa/weatherteste/blob/master/image_app.jpeg)
-![Image star-screen](https://github.com/ricardofressa/weatherteste/blob/master/image_app2.jpeg)
+![Image star-screen](https://github.com/ricardofressa/weatherteste/blob/master/image_app.jpeg =480x360)
+![Image star-screen](https://github.com/ricardofressa/weatherteste/blob/master/image_app2.jpeg =480x360)
 
 ## Licença
 
